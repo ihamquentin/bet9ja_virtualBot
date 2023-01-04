@@ -23,8 +23,6 @@ import os
 creds_file= "cred.json"
 f1 = open(creds_file)
 request_data = json.load(f1)
-
-#self.session = boto3.Session(aws_access_key_id=request_data['Accesss_Key'],aws_secret_access_key=request_data['Secret_Key'])
         
 #options = webdriver.ChromeOptions()
 
