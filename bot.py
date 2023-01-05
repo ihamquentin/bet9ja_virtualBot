@@ -60,6 +60,8 @@ while av == 1:
         time.sleep(3)
         print(e)
 
+#use random to fetch 2 games among the 10 playingf games and auto stake goal goal n them 
+#do this continously until code is manually stopped or balance is exhausted 
 
 ########################################################################################
 
